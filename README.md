@@ -33,12 +33,12 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 ---
 
 ### Connect With Me
-<p align="left">
+<p align="center">
 <a href="https://www.kaggle.com/dejelcyrusdeasis" target="_blank">
-<img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="40" width="40" />
+  <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white"/>
 </a>
-<a href=https://www.linkedin.com/in/dejel-cyrus-de-asis-9567172b0/ target="_blank">
-<img alighn="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/linkedin-icon.svg" height="40" width="40" />  
+<a href="https://www.linkedin.com/in/dejel-cyrus-de-asis-9567172b0/" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 </p>
 
