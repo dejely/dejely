@@ -37,12 +37,11 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 <a href="https://www.kaggle.com/dejelcyrusdeasis" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
 </a>
-</p>
-<p>
 <a href=https://www.linkedin.com/in/dejel-cyrus-de-asis-9567172b0/ target="_blank">
 <img alighn="center" src="https://raw.githubusercontent.com/gilbarbara/logos/refs/heads/main/logos/linkedin-icon.svg" height="30" width="40" />  
 </a>
 </p>
+
 
 ---
 
