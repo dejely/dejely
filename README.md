@@ -66,6 +66,6 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 
 ### GitHub Stats
 
-<p>
+<p align=center>
 <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejely&theme=black-ice" />
 </p>
