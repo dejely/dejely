@@ -27,12 +27,12 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 
 ---
 
-### 📫 Contact Me
+### Contact Me
 📧 **dddeasis@up.edu.ph**
 
 ---
 
-### 🤝 Connect With Me
+### Connect With Me
 <p align="left">
 <a href="https://www.kaggle.com/dejelcyrusdeasis" target="_blank">
 <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" height="30" width="40" />
@@ -41,7 +41,7 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 
 ---
 
-### 🛠️ Languages & Tools
+### Languages & Tools
 <p align="left">
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" width="40" height="40"/></a>
 <a href="https://aws.amazon.com" target="_blank"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" width="40" height="40"/></a>
@@ -64,15 +64,8 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 
 ---
 
-### 📊 GitHub Stats
-<p>
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dejely&show_icons=true&locale=en&layout=compact" />
-</p>
+### GitHub Stats
 
 <p>
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=dejely&show_icons=true&locale=en" />
-</p>
-
-<p>
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejely" />
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dejely&theme=black-ice" />
 </p>
