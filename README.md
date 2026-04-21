@@ -71,6 +71,5 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 
 <p>
 <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=dejely&theme=black-ice" /> 
-<img align="left" src="https://github-readme-stats.vercel.app/api?username=dejely&theme=holi&show_icons=true"/>
-
 </p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dejely&theme=holi&show_icons=true"/></p>
