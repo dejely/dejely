@@ -69,7 +69,7 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 ---
 
 
-<p>
+<p align='center'>
 <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dejely&theme=blue-navy" alt="GitHub Streak" /></a>
 </p>
-<p><img align="left" src="https://github-readme-stats.vercel.app/api?username=dejely&theme=holi&show_icons=true"/></p>
+<p align='center'><img align="left" src="https://github-readme-stats.vercel.app/api?username=dejely&theme=holi&show_icons=true"/></p>
