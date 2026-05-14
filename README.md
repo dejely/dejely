@@ -14,16 +14,16 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 
 ---
 
-### 👨‍💻 About Me
-- 🎓 BS Computer Science student at **UP Visayas**
-- 🔐 Interested in **Cybersecurity, Digital Forensics, and Cryptography**
-- 💡 I enjoy building, breaking (ethically), and understanding systems
-- 🤫 Most of my work is private… for now
+### About Me
+- BS Computer Science student at **UP Visayas**
+- Interested in **Cybersecurity, Digital Forensics, and Cryptography**
+- I enjoy building, breaking (ethically), and understanding systems
+- Most of my work is **private**… for now
 
 ---
 
-### 💬 Ask Me About
-**Java • Digital Forensics • Cryptography**
+### Ask Me About
+**Java • Cybersecurity • Computer Vision • System Architecture**
 
 ---
 
