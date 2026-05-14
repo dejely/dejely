@@ -68,8 +68,12 @@ Cybersecurity Enthusiast • Builder • Lifelong Learner
 
 ---
 
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=dejely&theme=algolia&no-frame=true&no-bg=true&margin-w=15" alt="GitHub Profile Trophy" />
+  </a>
+</p>
 
 <p align='center'>
-<a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dejely&theme=blue-navy" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=Dejely&theme=blue-navy" alt="GitHub Streak" /></a>
 </p>
-<p align='center'><img align="left" src="https://github-readme-stats.vercel.app/api?username=dejely&theme=holi&show_icons=true"/></p>
